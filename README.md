@@ -1,4 +1,4 @@
-**📊 Customer Churn Analysis Dashboard | Power BI
+**📊 Customer Churn Analysis Dashboard | Power BI**
 
 **📌 Project Overview**
 
