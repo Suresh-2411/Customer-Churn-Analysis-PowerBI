@@ -67,7 +67,7 @@ The objective is to transform customer data into meaningful business insights an
 **Dashboard Preview**
 
 **1. Customer Churn Analysis**
-![Customer Churn Analysis](Images/Churn-analysis.png)
+![Customer Churn Analysis](Images/Churn%20analysis.png)
 
 **2. Customer Segmentation Analysis**
 ![Customer Segmentation Analysis](Images/segmentation.png)
