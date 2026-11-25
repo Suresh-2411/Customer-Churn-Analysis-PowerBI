@@ -75,9 +75,6 @@ The objective is to transform customer data into meaningful business insights an
 
 **👨‍💻 Author**
 
-**Suresh Kumar**
-
-B.E. Computer Science and Engineering | 2026 Graduate
+**Suresh Kumar A**
 
 
-⭐ If you find this project useful, feel free to star the repository!
